@@ -3,6 +3,6 @@
 
     "jwtSecret": "secrettoken",
 
-    "githubClientId": "88aebfb781c5495e8f31",
-    "githubSecret": "b297fa4047d0ff196dd3a39c9021c943f86fee9a"
+    "githubClientId": "",
+    "githubSecret": ""
 }
